@@ -1,0 +1,81 @@
+# a="강한친구 대한육군\n"
+# print(a*2)
+# a=472
+# print(a//10//10) #100의 자리
+# print(a//10%10) #10의 자리
+# print(a % 10) #1의 자리
+# x1 = int(input())
+# x2 = int(input())
+# x2_1 = x2//10//10
+# x2_2 = x2//10%10
+# x2_3 = x2%10
+# x3 = x1*x2_3
+# x4 = x1*x2_2
+
+# a = 'hobby'
+# print(a.count('b'))
+# b = "I am iron man"
+# print(b.find('i'))
+# c = "Life is too short"
+# print(c.index('t'))
+# print(",".join('abcd'))
+# d = 'hi'
+# print(d.upper())
+# e = "HI"
+# print(e.lower())
+# f = "hi  "
+# print(f)
+# print(f.rstrip())
+# g = "  hi"
+# print(g.lstrip())
+# h = " hi "
+# print(h.strip())
+# i = "Life is too short"
+# print(i.replace("Life", "Your leg"))
+# j = "Life is too short"
+# print(j.split())
+# k = "a:b:c:d"
+# print(k.split(':'))
+# l = "btc_krw"
+# print(l.upper())
+# print(l.split("_"))
+# m = "039490    "
+# print(m.rstrip())
+# a = int(input())
+# b = int(input())
+# if a > b:
+# print("a는 b보다 크다")
+# a = 6
+# b = 4
+# if a%2==0 and b%2==0:
+#     print("a와 b는 짝수다.")
+# or (조건 중 하나만 참이면 참이 된다.)
+# not (조건이 거짓이면 참이다.)
+#
+# a = int(input())
+# b = int(input())
+# if (a + b >8)
+#     pass(아무것도 안나온다.)
+#     print("a와 b의 합은 8보다 크다.")
+# if a>b:
+#     print("a는 b보다 크다.")
+# else:
+#     print("a는 b보다 작거나 같다.")
+# 돈이 5000원 있으면 택시를 타고,
+# 5000원은 없지만 1000원이 있으면 버스를 타고,
+# 5000원도 없고 1000원도 없으면 걸아가라.
+# money== int(input())
+# if money== 5000:
+# print("texi")
+# elif money == 1000
+# print("bus")
+# else money == 0
+# print("walk")
+# a = int(input())
+# b = int(input())
+# if a > b:
+#     print('>')
+# elif a < b:
+#     print('<')
+# else:
+#     print('==')
